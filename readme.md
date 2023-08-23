@@ -1,13 +1,12 @@
 ## **Kasubi SS** 
 
-**KSS** is developed for educational institutions like schools and colleges built on Laravel 
+**KSS** is developed for educational institutions like schools built on Laravel 
 
 <hr />  
 
-There are 7 types of user accounts. They include:
+There are 6 types of user accounts. They include:
  
 Administrators (Super Admin & Admin)
-- Librarian
 - Accountant
 - Teacher
 - Student
@@ -57,9 +56,6 @@ After seeding. Login details as follows:
 - Manage Payments & fees
 - Print Payment Receipts
 
-**-- LIBRARIAN**
-- Manage Books in the Library
-
 **-- TEACHER**
 - Manage Own Class/Section
 - Manage Exam Records for own Subjects
@@ -72,7 +68,6 @@ After seeding. Login details as follows:
 - View own class subjects
 - View own marks and class timetable
 - View Payments
-- View library and book status
 - View noticeboard and school events in calendar
 - Manage own profile
 
@@ -81,7 +76,7 @@ After seeding. Login details as follows:
 - View own child's marksheet (Download/Print PDF)
 - View own child's Timetable
 - View own child's payments
-- View noticeboard and school events in calendar
+- School events in calendar
 - Manage own profile
 
 
